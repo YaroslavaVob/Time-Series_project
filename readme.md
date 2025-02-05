@@ -46,7 +46,7 @@
 
 4) Градиентные бустинги (XGBoost, CatBoost) продемонстрировали неплохие результаты, особенно при добавлении дополнительных регрессоров (транзакции, праздники и др.).
 
-Предлагаю вам познакомиться с [проектом]().
+Предлагаю вам познакомиться с [проектом](https://nbviewer.org/github/YaroslavaVob/Time-Series_project/blob/d50119fd202b464ea4f9bf3a01570af34711e982/Sales%20time%20serie.ipynb).
 
 Загрузить основные данные можно по [ссылке](https://drive.google.com/file/d/1i2WS6RQo32syz1DUIPdo5bdaSM_XcJq_/view?usp=sharing)
 
